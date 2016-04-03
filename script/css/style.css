@@ -1,6 +1,6 @@
 /* 清零 */
 body,ul,ol,li,p,h1,h2,h3,h4,h5,h6,form,fieldset,table,td,img,div,dl,dt,dd,input{margin:0;padding:0;}
-body{font:12px/18px "MicrosoftYaHei","微软雅黑", "STXihei", "华文细黑", serif;color:#ffffff;}
+body{font:12px/18px "MicrosoftYaHei","微软雅黑", "STXihei", "华文细黑", serif;color:#ffffff;font-weight:normal; }
 img{border:none;}
 ul,li{list-style:none;}
 input,select,textarea{outline:none;}
@@ -61,5 +61,37 @@ a{text-decoration:none;}
 			.sh-amn h4{font-size:2em;padding-top:5px;}
 			.sh-amn p{padding:10px 0;}
 	
+	.about-mn{width:100%;height:auto;}
+		.one-amn{width:100%;height:566px;float:left;}
+			.left-omn{width:80%;height:100%;background:url(../../images/TIME.png) no-repeat center center;float:left;}
+				 .wz-lomn{width:40%;height:40%;text-align:center;padding-top:15%;margin:0 auto;line-height:3em;}
+				 .wz-lomn h4{font-size:3em;font-weight:normal;}
+				 .wz-lomn h1{font-size:10em;margin:.5em 0;font-weight:normal;}
+				 .wz-lomn p{font-size:1.5em;}
+			.right-omn{width:20%;height:100%;float:left;color:#313232;text-align:center;}
+			.right-omn h4{font-size:2em;margin-top:180px;}
+			.right-omn  span{color:#e74f4d;}
+			.right-omn p{line-height:2em;margin-top:20px;text-align:left}
+			.right-omn a{display:inline-block;color:#e25e62;padding:8px 18px;border:1px solid #e25e62;margin-top:50px;}
+			.right-omn a:hover{background-color:#e25e62;color:#ffffff;}
+
+		.two-omn{width:100%;height:520px;float:left;text-align:center;}
+		.two-omn div{width:33%;height:100%;float:left;font-size:2em;font-weight:normal;}
+		.two-omn a{display:inline-block;padding:15px 30px;border:1px solid #ffffff;margin-top:50px;font-weight:normal;}
+		.two-omn p{margin-top:180px;line-height:1.5em;}
+			.left-tomn{background-color:#e25e62;}
+			.wh-tomn{width:10px;height:2px;display:block;background-color:#ffffff;}
+			.left-tomn a{color:#ffffff;}
+			
+			.centen-tomn p{color:#323333;}
+			.centen-tomn a{color:#e25e62;border-color:#e25e62;}
+
+			.right-tomn{background:url(../../images/time_r.png) no-repeat center center;}
+
+
+		.three-omn{width:100%;height:749px;}
+		
+	
+
 
 
